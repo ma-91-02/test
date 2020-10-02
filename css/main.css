@@ -1,0 +1,11 @@
+
+.rr{
+    cursor: pointer;
+    display: block;
+    position: relative;
+    top: 22px;
+    left: 575%;
+}
+.active{
+    display: none;
+}
